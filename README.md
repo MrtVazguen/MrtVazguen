@@ -18,4 +18,4 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrVazguen&repo=github-readme-stats)](https://github.com/mrVazguen/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mrVazguen&theme=tokyonight)](https://github.com/mrVazguen/github-readme-stats)
