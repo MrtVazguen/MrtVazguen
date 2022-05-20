@@ -1,5 +1,5 @@
 
-###  Hi everybody 👋
+###  Hi everyone 👋
 
 * 
  <!--
